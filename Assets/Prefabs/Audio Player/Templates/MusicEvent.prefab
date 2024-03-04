@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6489529783488785660
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3328920830195949212}
+  - component: {fileID: 3281968504123769407}
+  m_Layer: 0
+  m_Name: MusicEvent
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3328920830195949212
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6489529783488785660}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 10.771269, y: -5.793536, z: -3.1380324}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: -1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3281968504123769407
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6489529783488785660}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdbaf672aeaab884d9005ab18a6ad882, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  musicPlayer: {fileID: 0}
+  triggerKey: 
+  isChangingTracks: 0
+  track1: 0
+  track2: 0
+  track3: 0
+  isCrossfading: 0
+  fadeTime: 1
+  channelToFade1: 0
+  channelToFade2: 0
+  channelToFade3: 0
+  isChangingEffects: 0
+  mixerGroup1: 0
+  effect1: 0
+  value1: 0
+  mixerGroup2: 0
+  effect2: 0
+  value2: 0
+  mixerGroup3: 0
+  effect3: 0
+  value3: 0
+  mixerGroup4: 0
+  effect4: 0
+  value4: 0
+  mixerGroup5: 0
+  effect5: 0
+  value5: 0
+  startPlayer1: 0
+  isLoopPlayer1: 0
+  startPlayer2: 0
+  isLoopPlayer2: 0
+  startPlayer3: 0
+  isLoopPlayer3: 0

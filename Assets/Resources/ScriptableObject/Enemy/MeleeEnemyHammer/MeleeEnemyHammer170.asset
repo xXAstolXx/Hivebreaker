@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6fe0c9edce3ac449a49385a1e179937, type: 3}
+  m_Name: MeleeEnemyHammer170
+  m_EditorClassIdentifier: 
+  enemyName: 170
+  maxHP: 127
+  meleeAttack: 100
+  rangedAttack: 0
+  meleeDefense: 90
+  rangedDefense: 75
+  moveSpeed: 7
+  meleeAttackSpeed: 127
+  rangedAttackSpeed: 0
+  bulletSpeed: 0
+  capsuleMaxHP: 0
+  capsuleMeleeAttack: 8
+  capsuleRangedAttack: 0
+  capsuleMeleeDefense: 0
+  capsuleRangedDefense: 0
+  capsuleMoveSpeed: 0
+  capsuleMeleeAttackSpeed: 0
+  capsuleRangedAttackSpeed: 0
+  capsuleBulletSpeed: 0

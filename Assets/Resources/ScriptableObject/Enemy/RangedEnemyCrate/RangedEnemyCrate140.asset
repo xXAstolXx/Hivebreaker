@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6fe0c9edce3ac449a49385a1e179937, type: 3}
+  m_Name: RangedEnemyCrate140
+  m_EditorClassIdentifier: 
+  enemyName: 140
+  maxHP: 84
+  meleeAttack: 0
+  rangedAttack: 62
+  meleeDefense: 55
+  rangedDefense: 56
+  moveSpeed: 5
+  meleeAttackSpeed: 0
+  rangedAttackSpeed: 85
+  bulletSpeed: 15.7
+  capsuleMaxHP: 0
+  capsuleMeleeAttack: 0
+  capsuleRangedAttack: 16
+  capsuleMeleeDefense: 0
+  capsuleRangedDefense: 0
+  capsuleMoveSpeed: 0
+  capsuleMeleeAttackSpeed: 0
+  capsuleRangedAttackSpeed: 0
+  capsuleBulletSpeed: 1.8

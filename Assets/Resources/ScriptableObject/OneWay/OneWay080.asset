@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea6fb22e11dd9cd49bb083681d1e3ea3, type: 3}
+  m_Name: OneWay080
+  m_EditorClassIdentifier: 
+  statName: 80
+  maxHP: 20
+  meleeAttack: 10
+  rangedAttack: 10
+  meleeDefense: 8
+  rangedDefense: 8
+  moveSpeed: 0.5
+  meleeAttackSpeed: 15
+  rangedAttackSpeed: 14
+  bulletSpeed: 5.5

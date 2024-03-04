@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6a43117e817ccd4292cffdd326d55a5, type: 3}
+  m_Name: TwoWay050
+  m_EditorClassIdentifier: 
+  statName: 50
+  maxHPPlus: 28
+  maxHPMinus: 14
+  meleeAttackPlus: 14
+  meleeAttackMinus: 7
+  rangedAttackPlus: 14
+  rangedAttackMinus: 7
+  meleeDefensePlus: 6
+  meleeDefenseMinus: 5
+  rangedDefensePlus: 6
+  rangedDefenseMinus: 5
+  moveSpeedPlus: 1
+  moveSpeedMinus: 0.5
+  meleeAttackSpeedPlus: 1
+  meleeAttackSpeedMinus: 1
+  rangedAttackSpeedPlus: 22
+  rangedAttackSpeedMinus: 11
+  bulletSpeedPlus: 8
+  bulletSpeedMinus: 4

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43fe59e6215b05b4e9c317bef2fb8c9c, type: 3}
+  m_Name: AddMachine
+  m_EditorClassIdentifier: 
+  min_MaxHp: 1
+  max_MaxHp: 10
+  min_MeleeAttackDMG: 1
+  max_MeleeAttackDMG: 10
+  min_RangedAttackDMG: 1
+  max_RangedAttackDMG: 10
+  min_MeleeDEF: 1
+  max_MeleeDEF: 10
+  min_RangedDEF: 1
+  max_RangedDEF: 10
+  min_MoveSpeed: 1
+  max_MoveSpeed: 10
+  min_MeleeAttackSPD: 1
+  max_MeleeAttackSPD: 10
+  min_RangedAttackSPD: 1
+  max_RangedAttackSPD: 10
+  min_BulletSPD: 1
+  max_BulletSPD: 10
