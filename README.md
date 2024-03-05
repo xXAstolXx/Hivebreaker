@@ -12,7 +12,8 @@ As Frankie, an overworked employee, you yearn for fresh air.However, your cowork
 - Player Progression through Stat upgrades
 - Controller Support
 ## Responsibilities 
-- UI Programming
+- [UI Programming](
+- Gameplay Programming
 
 ## Website 
 ![Itch.io Icon](ReadMe/itch.io_icon.png)[Hivebreaker](https://s4g.itch.io/hivebreaker)
