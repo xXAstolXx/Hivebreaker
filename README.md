@@ -13,7 +13,9 @@ As Frankie, an overworked employee, you yearn for fresh air.However, your cowork
 - Controller Support
 ## Responsibilities 
 - [UI Programming](https://github.com/xXAstolXx/Hivebreaker/blob/main/Assets/Script/UI/UI_HUD.cs)
-- [Gameplay Programming](
-
+- [Gameplay Programming](https://github.com/xXAstolXx/Hivebreaker/blob/main/Assets/Script/StatOMat/OneWayOMat.cs)
+## Tools
+- Unity and C#
+- Perforce (VCS)
 ## Website 
 ![Itch.io Icon](ReadMe/itch.io_icon.png)[Hivebreaker](https://s4g.itch.io/hivebreaker)
